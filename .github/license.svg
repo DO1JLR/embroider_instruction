@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg28"
+   version="1.1"
+   height="20"
+   width="96"
+   sodipodi:docname="license.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1276"
+     inkscape:window-height="1385"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="5.2708333"
+     inkscape:cx="48.379447"
+     inkscape:cy="10"
+     inkscape:window-x="1280"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg28" />
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="GPL v3" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>GPL v3 by L3D</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>L3D &lt;l3d@c3woc.de&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>L3D</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <linearGradient
+     y2="100%"
+     x2="0"
+     id="b">
+    <stop
+       id="stop2"
+       stop-opacity=".1"
+       stop-color="#bbb"
+       offset="0" />
+    <stop
+       id="stop4"
+       stop-opacity=".1"
+       offset="1" />
+  </linearGradient>
+  <clipPath
+     id="a">
+    <rect
+       id="rect7"
+       fill="#fff"
+       rx="3"
+       height="20"
+       width="96" />
+  </clipPath>
+  <g
+     id="g16"
+     clip-path="url(#a)">
+    <path
+       id="path10"
+       d="M0 0h51v20H0z"
+       fill="#555" />
+    <path
+       id="path12"
+       d="M51 0h45v20H51z"
+       fill="#007ec6" />
+    <path
+       id="path14"
+       d="M0 0h96v20H0z"
+       fill="url(#b)" />
+  </g>
+  <g
+     id="g26"
+     font-size="110"
+     font-family="DejaVu Sans,Verdana,Geneva,sans-serif"
+     text-anchor="middle"
+     fill="#fff">
+    <text
+       id="text18"
+       textLength="410"
+       transform="scale(.1)"
+       fill-opacity=".3"
+       fill="#010101"
+       y="150"
+       x="265">License</text>
+    <text
+       id="text20"
+       textLength="410"
+       transform="scale(.1)"
+       y="140"
+       x="265">License</text>
+    <text
+       id="text22"
+       textLength="350"
+       transform="scale(.1)"
+       fill-opacity=".3"
+       fill="#010101"
+       y="150"
+       x="725">GPLv3</text>
+    <text
+       id="text24"
+       textLength="350"
+       transform="scale(.1)"
+       y="140"
+       x="725">GPLv3</text>
+  </g>
+</svg>
